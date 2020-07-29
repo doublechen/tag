@@ -1653,4 +1653,5 @@ const (
 	YieldRedemptionPrice                            quickfix.Tag = 697
 	YieldRedemptionPriceType                        quickfix.Tag = 698
 	YieldType                                       quickfix.Tag = 235
+	ValueDate                                       quickfix.Tag = 9006
 )
