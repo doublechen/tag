@@ -1656,4 +1656,8 @@ const (
 	Tenor                                           quickfix.Tag = 9002
 	ValueDate                                       quickfix.Tag = 9006
 	OutrightAllInRate                               quickfix.Tag = 9010
+	MarketMidRate                                   quickfix.Tag = 9050
+	FixingDate                                      quickfix.Tag = 6203
+	FixingSource                                    quickfix.Tag = 6204
+	PipPlacement                                    quickfix.Tag = 9003
 )
