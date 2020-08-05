@@ -1660,4 +1660,5 @@ const (
 	FixingDate                                      quickfix.Tag = 6203
 	FixingSource                                    quickfix.Tag = 6204
 	PipPlacement                                    quickfix.Tag = 9003
+	AccountID                                       quickfix.Tag = 9004
 )
